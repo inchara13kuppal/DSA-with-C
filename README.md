@@ -71,4 +71,4 @@ Contributions are welcome! If you find a bug, have a more optimized implementati
 
 ## 📜 License
 
-This project is licensed under the **MIT License** - see the [LICENSE.md](LICENSE.md) file for details.
+This Repo is licensed under the **MIT License** - see the [LICENSE.md](LICENSE.md) file for details.
