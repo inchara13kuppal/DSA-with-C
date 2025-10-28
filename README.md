@@ -23,8 +23,7 @@ A comprehensive collection of **Data Structure and Algorithm** implementations w
 | `04_Trees` | Hierarchical data structures and their traversals. | **Binary Search Trees (BST)**, Traversals (Inorder, Preorder, Postorder, Level Order). |
 | `05_Heaps` | Priority-based tree structure. | **Min-Heap, Max-Heap**, Heapify, Priority Queue. |
 | `06_Hashing` | Key-value storage and collision handling. | Hash Tables using **Separate Chaining** and **Open Addressing**. |
-| `07_Sorting` | Classic comparison-based and non-comparison algorithms. | **Quick Sort, Merge Sort, Heap Sort,** Insertion, Selection, Bubble Sort. |
-| `08_Graphs` | Implementations and fundamental search algorithms. | **Adjacency List/Matrix**, **BFS, DFS**. |
+| `07_Graphs` | Implementations and fundamental search algorithms. | **Adjacency List/Matrix**, **BFS, DFS**. |
 
 ---
 
